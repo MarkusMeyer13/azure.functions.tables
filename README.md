@@ -26,4 +26,8 @@ Information and samples about the tables extension:
 
 ## More links
 
-[Quickstart: Create a C# function in Azure from the command line](https://docs.microsoft.com/en-us/azure/azure-functions/create-first-function-cli-csharp?tabs=azure-cli%2Cin-process)
+[Quickstart: Create a C# function in Azure from the command line](https://docs.microsoft.com/en-us/azure/azure-functions/create-first-function-cli-csharp?tabs=azure-cli%2Cin-process)  
+
+[Azure Function with identity-based connections](https://markusmeyer.hashnode.dev/azure-function-with-identity-based-connections)  
+
+[Unit Test Azure Function with Table Extension in C#](https://markusmeyer.hashnode.dev/unit-test-azure-function-with-table-extension-in-c)
